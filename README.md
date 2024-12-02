@@ -51,10 +51,4 @@ Aqui estão algumas das tecnologias que utilizamos para criar nossas soluções:
 
 ---
 
-## 📷 Nossa Cultura Visual
-
-![Banner Californio](https://via.placeholder.com/1200x400.png?text=Adicione+um+banner+criativo+da+agência)
-
----
-
 ✨ **Vamos juntos transformar seu próximo projeto em um sucesso!**
